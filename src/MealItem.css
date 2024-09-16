@@ -1,0 +1,13 @@
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+.list-item {
+  margin: 10px;
+}
+
+.meal-name {
+  font-weight: bold;
+  text-decoration: underline;
+}
